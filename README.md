@@ -1,6 +1,6 @@
 Byte Bridge: Lab 2 Website
 
-Live site:** https://PARTNER-A-USERNAME.github.io/team-website/
+Live site:https://miss saturlino.github.io/team-website/
 
 Team
 | Name | Registration no. | GitHub username |
