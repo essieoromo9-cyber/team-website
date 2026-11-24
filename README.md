@@ -1,6 +1,6 @@
 Byte Bridge: Lab 2 Website
 
-Live site:https://essieoromo9.github.io/team-website/
+Live site:https://essieoromo9-github.io/team-website/
 
 Team
 | Name | Registration no. | GitHub username |
@@ -25,5 +25,4 @@ Reflection
 5. An origin is the combination of protocol, host and port, and `localStorage` is kept separately for each origin. Home and Contact share the origin `http://127.0.0.1:5500`, so they share the saved theme. A double-clicked file uses `file://`, which is a different origin, so it has its own separate storage and does not see the theme saved by Live Server.
 6. The header, navigation and footer are copied into every HTML page. Changing the team name or adding a page means editing every file, and missing one leaves the site inconsistent. It can be avoided with components or templates in a framework, a static site generator with includes, or JavaScript that inserts the shared header and footer.
 
-Extension question (E6)
-Should the alt text repeat the person's name when the name is already in the heading right below the photo? No. A screen reader would read the name twice, so the alt describes the image instead (for example hairstyle and clothing), and the heading supplies the name.
+
