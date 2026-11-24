@@ -1,11 +1,11 @@
 Byte Bridge: Lab 2 Website
 
-Live site:https://miss saturlino.github.io/team-website/
+Live site:https://essieoromo9.github.io/team-website/
 
 Team
 | Name | Registration no. | GitHub username |
 |------|------------------|-----------------|
-| Esther Isai Oromo Saturlino | COM/6000/24 | Miss Saturlino |
+| Esther Isai Oromo Saturlino | COM/6000/24 | Essieoromo9 |
 | Mary Bion Anyang Kuany | COM/6273/24 | Bion Anyang |
 
 Who drove each part
